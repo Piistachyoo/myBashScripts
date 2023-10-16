@@ -6,15 +6,15 @@
 ### 1- Back Script
 
 This script will help the user go to upper directory without using cd ../  
-You can easily go back 3 folders at a finger tip  
+You can easily go back 3 folders at a fingertip  
 **This command must be run with source!**  
 ![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/Back%20script/script.png?raw=true)  
 
 ### 2- Calculator Script
 
-A shortcut to use `bc` command in an easy way  
-Default precision for float values is 3  
-Precision can be changed by specifing -p as an argument followed by the precision needed  
+A shortcut to use the `bc` command in an easy way  
+The default precision for float values is 3  
+Precision can be changed by specifying -p as an argument followed by the precision needed  
 ![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/Calculator%20Script/script.png?raw=true)  
 
 ### 3- Path_Search Script
@@ -39,7 +39,7 @@ This script generates a random 8-letter length password every time it is called
 This script generates a random quote every time it is called  
 ![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/Random_Quotes/script.png?raw=true)  
 
-### 6- Random_Quotes Script
+### 6- File_Compare Script
 
-This script check if two files are identical or different
+This script checks if two files are identical or different
 ![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/File_Compare/script.png?raw=true)  
