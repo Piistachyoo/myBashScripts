@@ -28,3 +28,18 @@ The command changes the IFS (internal field separator) and reverts the changes b
 A script to search /etc/passwd to get information about a specific user  
 The command changes the IFS (internal field separator) and reverts the changes before exiting  
 ![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/User_Search%20Script/script.png?raw=true)  
+
+### 5- Psw_Generator Script
+
+This script generates a random 8-letter length password every time it is called  
+![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/Psw_Generator/script.png?raw=true)  
+
+### 6- Random_Quotes Script
+
+This script generates a random quote every time it is called  
+![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/Random_Quotes/script.png?raw=true)  
+
+### 6- Random_Quotes Script
+
+This script check if two files are identical or different
+![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/File_Compare/script.png?raw=true)  
