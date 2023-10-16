@@ -39,7 +39,12 @@ This script generates a random 8-letter length password every time it is called
 This script generates a random quote every time it is called  
 ![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/Random_Quotes/script.png?raw=true)  
 
-### 6- File_Compare Script
+### 7- File_Compare Script
 
 This script checks if two files are identical or different
 ![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/File_Compare/script.png?raw=true)  
+
+### 8- IP_Scanner Script
+
+This script uses the `ping` command to check for available IPs on the network  
+![Script Execution](https://github.com/Piistachyoo/myBashScripts/blob/main/IP_Scanner/script.png?raw=true)  
